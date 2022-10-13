@@ -1,0 +1,22 @@
+{
+  "name": "python-adventure",
+  "version": "1.0.0",
+  "description": "Beginner project to get familiar with if, elif, and else statements in Python",
+  "main": "adventure.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olivia-Pasion/python-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olivia-Pasion/python-adventure/issues"
+  },
+  "homepage": "https://github.com/Olivia-Pasion/python-adventure#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
